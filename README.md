@@ -4,9 +4,21 @@
 3. How do we assign an existing variable to a new variable?
 4. Remind me, what are declare, assign, and define?
 
+Declare is to let js know that there is a variable `let a;`
+To assign a value to the variable. I need to use `=`.
+For example: `let a = 0`
+
 ### Research 
 
 5. What is pseudocoding and why should you do it?
+
+Pseudocoding is writing code in plain spoken language that humans can understand.
+
+It's important because it allows you to write the logic and steps of the you want to accomplish in code without worrying about the rigid syntax.
+
+Psuedocode allows us to break down problems into solvable peices that can be transfered to code. 
+
+Psudocode is the bridge between our minds and the code. 
 
 6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
 
